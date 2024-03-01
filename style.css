@@ -16,7 +16,44 @@ img{
     width: auto;
     min-height: auto;
 }
-
+.icon{
+    width: 35px;
+    height: 35px;
+    float: right; 
+    
+    
+    }
+    .container{
+    display: flex;
+    
+    }
+    #button{
+        padding: 5px;
+        border-radius: 5px;
+        background-color: orangered;
+        color: aliceblue;
+    }
+    #try{
+    padding: 10px;
+    background-color: aliceblue;
+    color:orangered;
+    border:none;
+    }
+    
+    #text{
+        display: grid;
+    }
+    #image{margin-left: 30%;
+        
+        margin-bottom: 60%;
+    
+    }
+    #body{
+        border: 1px solid;
+        
+        padding: 20px;
+       
+    }
     
 
 
