@@ -55,6 +55,24 @@ img{
        
     }
     
+    #container{
+        display: flex;
+        padding: 30px;
+        gap: 12px;
+        text-align: center;
+        position: fixed;
+    
+    }
+    
+    
+    .picture{
+            zoom: 10%;
+    
+        
+    
+    }
+    
+    
 
 
 
